@@ -1,0 +1,74 @@
+.home-container {
+  height: 300px;
+  color: black;
+}
+
+.home-content h1 {
+  padding: 10px;
+  padding-top: 60px;
+  margin-left: 180px;
+}
+
+.home-content h2 {
+  color: #03045e;
+  margin-left: 180px;
+  padding: 10px;
+}
+
+.home-buttons {
+  margin-left: 190px;
+  margin-top: 20px;
+}
+
+.btn-hire {
+  background-color: #003049;
+  color: white;
+  width: 155px;
+}
+.btn-hire:hover {
+  background-color: #0096c7;
+  color: black;
+  transition: 0.1s;
+}
+
+.btn-resume {
+  background-color: #003049;
+  color: white;
+  width: 155px;
+  margin-left: 10px;
+}
+.btn-resume:hover {
+  background-color: #0096c7;
+  color: black;
+  transition: 0.1s;
+}
+
+@media screen and (max-width: 600px) {
+  .home-container {
+    padding: 10px;
+    margin: 0;
+    padding-top: 20px;
+  }
+
+  .home-content h1 {
+    margin-left: 0;
+  }
+
+  .home-content h2 {
+    margin-left: 0;
+  }
+  .home-buttons {
+    margin-left: 0;
+  }
+  .btn-hire,
+  .btn-resume {
+    width: 130px;
+  }
+  .btn-resume {
+    margin-left: 20px;
+  }
+  .btn-hire:hover,
+  .btn-resume:hover {
+    color: white;
+  }
+}

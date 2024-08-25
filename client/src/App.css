@@ -1,0 +1,24 @@
+.footer {
+  background-color: #415a77;
+  color: wheat;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.mobile-footer {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    display: none;
+  }
+  .mobile-footer {
+    display: block;
+    background-color: #415a77;
+    color: wheat;
+    align-items: center;
+    padding: 5px;
+    padding-top: 10px;
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1286b04a.css",
+    "main.js": "/static/js/main.3e020577.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/eda_project.jpeg": "/static/media/eda_project.f136c3a06615000a57b8.jpeg",
+    "static/media/ecomm_project.jpeg": "/static/media/ecomm_project.8d52e8dbccebef39dff4.jpeg",
+    "static/media/contact2.jpeg": "/static/media/contact2.ee34b2a38e66d4d8e9ae.jpeg",
+    "static/media/about_1.jpeg": "/static/media/about_1.f5af83348d7e9d9262fd.jpeg",
+    "static/media/p_pic.jpg": "/static/media/p_pic.76e420b6323350dff84e.jpg",
+    "static/media/myResume.pdf": "/static/media/myResume.b371d2e169bf8dff33a0.pdf",
+    "index.html": "/index.html",
+    "main.1286b04a.css.map": "/static/css/main.1286b04a.css.map",
+    "main.3e020577.js.map": "/static/js/main.3e020577.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1286b04a.css",
+    "static/js/main.3e020577.js"
+  ]
+}

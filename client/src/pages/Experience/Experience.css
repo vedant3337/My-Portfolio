@@ -1,0 +1,32 @@
+.exp {
+  background-color: #415a77;
+  color: white;
+  padding-left: 180px;
+}
+.exp h1 {
+  text-decoration: solid;
+  color: wheat;
+}
+.exp hr {
+  width: 700px;
+  height: 20px;
+  border-top: 5px solid white;
+  margin: 10px auto;
+}
+.exp-line {
+  padding-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+  .exp {
+    margin: 0;
+    padding: 0;
+  }
+  .exp hr {
+    width: 60%;
+  }
+  .exp-line {
+    padding: 10px;
+    padding-bottom: 20px;
+  }
+}

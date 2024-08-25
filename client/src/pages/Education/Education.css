@@ -1,0 +1,30 @@
+.education {
+  background-color: #e0e1dd;
+  color: black;
+  padding-left: 180px;
+}
+hr {
+  width: 700px;
+  height: 20px;
+  border-top: 5px solid #003049;
+  margin: 10px auto;
+}
+
+.line {
+  padding-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+  .education {
+    margin: 0;
+    padding: 0;
+    padding: 10px;
+  }
+  hr {
+    width: 80%;
+  }
+  .line {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+}
